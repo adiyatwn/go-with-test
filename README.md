@@ -15,3 +15,46 @@ cd hello-world
 go run main.go
 go test
 ```
+
+## Roadmap
+
+### Go Fundamentals
+
+- [x] Installation
+- [x] Hello, world
+- [ ] Integers
+- [ ] Iteration
+- [ ] Arrays and slices
+- [ ] Structs, methods & interfaces
+- [ ] Pointers & errors
+- [ ] Maps
+- [ ] Dependency Injection
+- [ ] Mocking
+- [ ] Concurrency
+- [ ] Select
+- [ ] Reflection
+- [ ] Sync
+- [ ] Context
+- [ ] Intro to property based tests
+- [ ] Maths
+- [ ] Reading files
+- [ ] Templating
+- [ ] Generics
+- [ ] Revisiting arrays and slices with generics
+
+### Testing Fundamentals
+
+- [ ] Introduction to acceptance tests
+- [ ] Scaling acceptance tests
+- [ ] Working without mocks
+- [ ] Refactoring checklist
+
+### Build an Application
+
+- [ ] Intro
+- [ ] HTTP server
+- [ ] JSON, routing and embedding
+- [ ] IO and sorting
+- [ ] Command line & package structure
+- [ ] Time
+- [ ] WebSockets
