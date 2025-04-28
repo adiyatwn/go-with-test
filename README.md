@@ -22,8 +22,8 @@ go test
 
 - [x] Installation
 - [x] Hello, world
-- [ ] Integers
-- [ ] Iteration
+- [x] Integers
+- [x] Iteration
 - [ ] Arrays and slices
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
