@@ -24,7 +24,7 @@ go test
 - [x] Hello, world
 - [x] Integers
 - [x] Iteration
-- [ ] Arrays and slices
+- [x] Arrays and slices
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
